@@ -1,0 +1,2 @@
+# Lesotho
+#unciv-mod

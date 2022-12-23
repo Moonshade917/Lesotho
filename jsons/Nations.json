@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Lesotho",
+		"leaderName": "Moonshade",
+		"adjective": ["The Informatitian"],
+          "startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": "je kiff hacker les jeux",
+		"declaringWar": "get rekd!",
+		"attacked": "Tu va perdre...",
+		"defeated": "gros tricheur, pire que moi",
+		"introduction": "Combien de codes a tu fais?",
+		"neutralHello": "yo",
+		"hateHello": "oh.., toi, dis moi ce que tu veux.",
+		"tradeRequest": "It appears that you have a gigabyte of interest",
+		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0], 
+		"uniqueName": "The way of the Hack Lords",
+		"uniques": [ "No Maintenance costs for improvements in [All] tiles", "When defeating a [All] unit, earn [10] Gold and recruit it", "[0]% maintenance costs", "[0] Movement point cost to disembark", "[0] Movement point cost to embark", "City-State territory always counts as friendly territory", "All newly-trained [All] units [in all cities] receive the [Losotho Ability] promotion", "Military Units gifted from City-States start with [10000] XP", "New [All] units start with [10000] Experience [in all cities]", "[+99999]% Strength for cities", "Enables conversion of city production to gold", "[-100]% maintenance cost for buildings [in all cities]", "[-100]% Culture cost of adopting new Policies", "[-100]% maintenance costs <for [All] units>", "[+99999]% Golden Age length", "[Gold] cost of purchasing [All] units [-100]%", "[Gold] cost of purchasing [All] buildings [-100]%", "[-100]% maintenance on road & railroads", "May not generate great prophet equivalents naturally", "[+99999]% growth [in all cities]", "May buy [All] buildings for [0] [Culture] [in all cities]", "May buy [All] units for [0] [Culture] [in all cities]", "[10] Movement", "[-99999]% maintenance costs <for [All] units>", "[100] additional attacks per turn", "No movement cost to pillage", "[+1000] Sight <for [All] units>", "[+99999]% Strength <vs [All] units>", "[99999] Happiness from each type of luxury resource", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from every specialist [in all cities]", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from [All] tiles [in all cities]", "[99999]% resources gifted by City-States", "[-99999]% City-State Influence degradation", "Resting point for Influence with City-States is increased by [99999]", "Cities are razed [99999] times as fast", "Influence of all other civilizations with all city-states degrades [99999]% faster", "Gifts of Gold to City-States generate [99999]% more Influence", "[-99999]% tile improvement construction time", "Quantity of strategic resources produced by the empire +[99999]%", "[-99999]% unhappiness from population [in all cities]", "[+99999]% [Production] [in all cities]", "[+99999]% [Food] [in all cities]", "[+99999]% [Gold] [in all cities]", "[+99999]% [Science] [in all cities]", "[+99999]% [Faith] [in all cities]", "[+99999]% [Culture] [in all cities]", "[+100]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [+99999] tiles away", "[+10] Range", "[2] additional attacks per turn", "Units fight as though they were at full strength even when damaged", "Embarked units can defend themselves", "\"Borrows\" city names from other civilizations in the game", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", "Can embark and move over Coasts and Oceans immediately", "+[99999]% Strength for cities", "May choose [6] additional belief(s) of any type when [founding] a religion", "May choose [6] additional belief(s) of any type when [enhancing] a religion", "Land units may cross [Mountain] tiles after the first [Worker] is earned", "Units ending their turn on [Mountain] tiles take [0] damage"]
+	}	
+]

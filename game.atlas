@@ -1,0 +1,28 @@
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+
+TileImprovementIcons/Ruines Magiques
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+NationIcons/Civilisation ancienne
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Chercheur de ruines
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

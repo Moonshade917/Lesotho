@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Lesotho",
-		"leaderName": "Moonshade",
-		"adjective": ["The Informatitian"],
+		"name": "Foreign country",
+		"leaderName": "Unknown917",
+		"adjective": ["The Modder"],
           	"startBias": ["Coast", "Natural Wonder"],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "Paix, pluie et prospérité",
@@ -13,7 +13,7 @@
 		"neutralHello": "yo",
 		"hateHello": "oh.., toi, dis moi ce que tu veux.",
 		"tradeRequest": "Vous avez apparement un peu d'interêt pour moi",
-		"cities": ["Maseru", "Quthing", "Mafeteng", "Teyateayaneng", "Maputsoe", "Leribe", "Buthabuthe", "Thabatseka", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
+		"cities": ["Metasploit", "Nmap", "Wireshark", "John the Ripper", "Aircrack-ng", "Burp Suite", "Kali Linux", "Cain and Abel", "Hydra", "Maltego", "SQLMap", "Social-Engineer Toolkit (SET)", "OWASP ZAP", "Netcat", "Hashcat", "Angry IP Scanner", "THC Hydra", "Acunetix", "Ettercap", "Reaver"],
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0], 
 		"uniqueName": "Le petit pays très calme",
